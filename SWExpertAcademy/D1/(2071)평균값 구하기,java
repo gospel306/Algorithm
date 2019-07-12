@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int testcase = sc.nextInt();
+		int num, sum = 0;
+		double aver;
+		for(int i = 0;i<testcase;i++) {
+			for(int j = 0;j < 10;j++) {
+				num = sc.nextInt();
+				sum += num;
+			}
+			aver = (double)sum/10;
+			System.out.printf("#%d %d\n", (i+1),Math.round(aver));
+			sum = 0;
+		}
+	}
+}
