@@ -13,7 +13,7 @@ public class Solution {
 					sum += num;
 			}
 			System.out.printf("#%d %d\n",(i+1),sum);
-      sum = 0;
+      			sum = 0;
 		}
 	}
 }
