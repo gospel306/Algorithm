@@ -22,8 +22,4 @@
 * [평균값 구하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(2071)%ED%8F%89%EA%B7%A0%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0%2Cjava)
 * [홀수만 더하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(2072)%ED%99%80%EC%88%98%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
 
-
-<summary>D2</summary>
-
-
 </details>
