@@ -1,7 +1,6 @@
 #레벨별 알고리즘
-<details>
+<details markdown="1">
 <summary>D1</summary>
-<div markdown="1">
 
 * [거꾸로 출력해 보아요](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(1545)%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%B4%20%EB%B3%B4%EC%95%84%EC%9A%94.java)
 * [간단한 N의 약수](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(1933)%20%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98.java)
@@ -23,8 +22,8 @@
 * [평균값 구하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(2071)%ED%8F%89%EA%B7%A0%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0%2Cjava)
 * [홀수만 더하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(2072)%ED%99%80%EC%88%98%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
 
-</div>
+
 <summary>D2</summary>
-<div markdown="1">
-</div>
+
+
 </details>
