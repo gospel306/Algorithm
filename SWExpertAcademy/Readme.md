@@ -1,5 +1,5 @@
 # SW Expert Academy<br/>
-해당되는 레벨을 열어 F3으로 제목을 검색하시면 빨리 찾습니다.
+해당되는 레벨을 열어 F3으로 번호나 제목을 검색하시면 빨리 찾습니다.
 <details markdown="1">
 <summary>D1</summary>
 
