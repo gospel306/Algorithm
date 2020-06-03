@@ -1,5 +1,6 @@
 # Algorithm
 알고리즘을 공부하기 위해 백준, SW Expert Academy, 정올에서 문제를 풀어 코드들을 올립니다.<br>
+비정기적으로 업데이트합니다.
 * [백준][bakjoonfolderlink]
 * [SWEA][sweafolderlink]
 * [정올][jungolfolderlink]
