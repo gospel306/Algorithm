@@ -23,8 +23,10 @@
 * [홀수만 더하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D1/(2072)%ED%99%80%EC%88%98%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
 
 </details>
+
 <details markdown="1">
 <summary>D2</summary>
+
 * [최빈수 구하기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D2/(1204)%20%EC%B5%9C%EB%B9%88%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java)
 * [수도 요금 경쟁](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D2/(1284)%20%EC%88%98%EB%8F%84%20%EC%9A%94%EA%B8%88%20%EA%B2%BD%EC%9F%81.java)
 * [아름이의 돌 던지기](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D2/(1285)%20%EC%95%84%EB%A6%84%EC%9D%B4%EC%9D%98%20%EB%8F%8C%20%EB%8D%98%EC%A7%80%EA%B8%B0.cpp)
@@ -55,6 +57,7 @@
 </details>
 <details markdown="1">
 <summary>D3</summary>
+
 * [View](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(1206)%20View.java)
 * [Flatten](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(1208)%20Flatten.java)
 * [Sum](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(1209)%20Sum.java)
