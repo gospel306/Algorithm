@@ -172,7 +172,8 @@
 |1222.계산기1|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1222)%20%EA%B3%84%EC%82%B0%EA%B8%B01.java)
 |1223.계산기2|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1223)%20%EA%B3%84%EC%82%B0%EA%B8%B02.java)
 |1224.계산기3|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1224)%20%EA%B3%84%EC%82%B0%EA%B8%B03.java)
-|1226.미로1|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1226)%20%EB%AF%B8%EB%A1%9C1.java)
+|1226.미로1|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1226)%20%EB%AF%B8%EB%A1%9C1.java)|bfs|
+|1227.미로2|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1227)%20%EB%AF%B8%EB%A1%9C2.java)|bfs|
 |1233.사칙연산 유효성 검사|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1233)%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.java)
 |1249.보급로|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1249)%20%EB%B3%B4%EA%B8%89%EB%A1%9C.java)|bfs|
 |1251.하나로|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D4/(1251)%20%ED%95%98%EB%82%98%EB%A1%9C.java)
