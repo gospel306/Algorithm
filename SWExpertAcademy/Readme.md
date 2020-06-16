@@ -133,6 +133,7 @@
 |6958.동철이의 프로그래밍 대회|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(6958)%20%EB%8F%99%EC%B2%A0%EC%9D%B4%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C.java)
 |7087.문제 제목 붙이기|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7087)%20%EB%AC%B8%EC%A0%9C%20%EC%A0%9C%EB%AA%A9%20%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
 |7227.사랑의 카운슬러|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7227)%20%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%B9%B4%EC%9A%B4%EC%8A%AC%EB%9F%AC.java)
+|7272.안경이 없어!|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7272)%20%EC%95%88%EA%B2%BD%EC%9D%B4%20%EC%97%86%EC%96%B4!.java)
 |7510.상원이의 연속 합|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7510)%20%EC%83%81%EC%9B%90%EC%9D%B4%EC%9D%98%20%EC%97%B0%EC%86%8D%20%ED%95%A9.java)
 |7532.세영이의 SEM력 연도|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7532)%20%EC%84%B8%EC%98%81%EC%9D%B4%EC%9D%98%20SEM%EB%A0%A5%20%EC%97%B0%EB%8F%84.java)
 |7584.자가 복제 문자열|[java](https://github.com/gospel306/Algorithm/blob/master/SWExpertAcademy/D3/(7584)%20%EC%9E%90%EA%B0%80%20%20%EB%B3%B5%EC%A0%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.java)
