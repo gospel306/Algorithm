@@ -9,5 +9,6 @@ public class Main {
 		System.out.println(A-B);
 		System.out.println(A*B);
 		System.out.println(A/B);
+		System.out.printfln(A%B);
 	}
 }
