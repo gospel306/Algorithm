@@ -1,0 +1,46 @@
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+
+public class Main1966 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int testcase = sc.nextInt();
+        for(int t = 0;t < testcase;t++){
+            int N = sc.nextInt();
+            int M = sc.nextInt();
+            Queue<Point> q = new LinkedList<>();
+            int[] rankCnt = new int[10];
+            for(int i = 0;i < N;i++){
+                int n = sc.nextInt();
+                q.add(new Point(i, n));
+                rankCnt[n]++;
+            }
+            int cnt = 9;
+            int count = 1;
+            while(!q.isEmpty()){
+                while(cnt >= 0 && rankCnt[cnt] == 0)
+                    cnt--;
+                Point p = q.poll();
+                if(p.rank != cnt)
+                    q.add(p);
+                else{
+                    if(p.num == M) {
+                        System.out.println(count);
+                        break;
+                    }
+                    rankCnt[cnt]--;
+                    count++;
+                }
+            }
+        }
+    }
+    static class Point{
+        int num;
+        int rank;
+        public Point(int num, int rank){
+            this.num = num;
+            this.rank = rank;
+        }
+    }
+}
